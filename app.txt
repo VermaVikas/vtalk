@@ -1,1 +1,1 @@
-<center>Welcom To vTalk App</center>
+<center>Welcome To vTalk App</center>
